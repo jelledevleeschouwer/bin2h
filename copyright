@@ -1,0 +1,27 @@
+This package was debianized by Robert Millan <rmh@aybabtu.com> on
+Mon, 20 Oct 2008 15:03:37 +0000.
+
+It was downloaded from <http://www.zdomain.com/a56.html>
+
+Upstream Author:
+
+    Quinn C. Jensen
+
+Copyright:
+
+    Copyright (C) 1990-1998 Quinn C. Jensen
+
+License:
+
+    Permission to use, copy, modify, distribute, and sell this software
+    and its documentation for any purpose is hereby granted without fee,
+    provided that the above copyright notice appear in all copies and
+    that both that copyright notice and this permission notice appear
+    in supporting documentation.  The author makes no representations
+    about the suitability of this software for any purpose.  It is
+    provided "as is" without express or implied warranty.
+
+The Debian packaging is Copyright (C) 2008, Robert Millan <rmh@aybabtu.com>,
+Copyright (C) 2012, Thorsten Alteholz <debian@alteholz.de> and
+is licensed under the GPL version 3 (or, at your option, any later version),
+see `/usr/share/common-licenses/GPL-3'.

@@ -1,0 +1,18 @@
+bin2h(1)                                                              bin2h(1)
+
+NAME
+       bin2h - converter to header file
+
+SYNOPSIS
+       bin2h <bytes_per_line> < input > output
+
+DESCRIPTION
+       bin2h  converts  input to bytewise output with <bytes_per_line> on each
+       line.
+
+AUTHORS
+       Copyright (C) 2008 Robert  Millan  This  manual  page  was  written  by
+       Thorsten Alteholz <debian@alteholz.de>, for the Debian GNU/Linux system
+       (but may be used by others).
+
+                               November 26, 2012                      bin2h(1)
